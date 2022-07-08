@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @SyedAunHsn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @SyedAun,self taught web developer and an RF engineer.
+- 👀 I’m interested in learning and working on projects.
+- 🌱 I’m currently learning React-js.
+- 💞️ I’m looking to collaborate on projects and bootcamps.
+- 📫 How to reach me at Gmail-syedaunhsn@gmail.com, WhatsApp# +92-3423163116
 
-<!---
-SyedAunHsn/SyedAunHsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
